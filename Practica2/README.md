@@ -315,9 +315,6 @@ Switch # do wr
 
 # ⌨ Resumen de Comandos de verificación
 
-Aquí tienes únicamente los comandos de **verificación** para cada uno de los escenarios:
-
----
 
 ### 1. **Verificación del enlace serial entre R1 y R4**
 
